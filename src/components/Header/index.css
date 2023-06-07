@@ -1,0 +1,32 @@
+.header-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.head-logo {
+  height: 30px;
+  width: 120px;
+}
+
+.head-gestures-con {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.head-title-sty {
+  font-size: 14px;
+  margin-right: 12px;
+}
+
+.head-btn-sty {
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+  border: none;
+  background-color: #0967d2;
+  color: #ffff;
+  font-size: 14px;
+}

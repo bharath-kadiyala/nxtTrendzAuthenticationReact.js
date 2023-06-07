@@ -1,0 +1,54 @@
+* {
+  font-family: 'Roboto';
+  margin: 0;
+}
+
+.home-con {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  padding: 30px;
+  width: 90%;
+  max-width: 1000px;
+}
+
+.home-textAndImg-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-text-con {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  max-width: 500px;
+  margin-right: 20px;
+}
+
+.home-head-sty {
+  font-size: 26px;
+  font-weight: 600;
+  color: #1e293b;
+  margin-bottom: 20px;
+}
+
+.home-decs-sty {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.home-btn-sty {
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+  border: none;
+  background-color: #0967d2;
+  color: #ffff;
+  font-size: 14px;
+}
+
+.home-img-sty {
+  height: 400px;
+  width: 400px;
+}
